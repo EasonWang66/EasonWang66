@@ -3,9 +3,9 @@
 I'm pursuing dual master's degrees in Computer Science
 and Human-Computer Interaction at Georgia Tech.
 
-✍️ Check out my Product Design Portfolio: https://easonxinranwang.com
-
-💼 LinkedIn：www.linkedin.com/in/easonxinranwang
+[![Portfolio](assets/portfolio.svg)](https://easonxinranwang.com)
+[![LinkedIn](assets/linkedin.svg)](https://www.linkedin.com/in/easonxinranwang)
+[![Resume](assets/resume.svg)](https://drive.google.com/file/d/1v44c1tVe0y8k7oJx0wgeyAMrOrU-fcq5/view?usp=sharing)
 
 
 ### Languages
