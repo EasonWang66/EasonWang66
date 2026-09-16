@@ -3,9 +3,9 @@
 I'm pursuing dual master's degrees in Computer Science
 and Human-Computer Interaction at Georgia Tech.
 
-[![Portfolio](assets/portfolio.svg)](https://easonxinranwang.com)
-[![LinkedIn](assets/linkedin.svg)](https://www.linkedin.com/in/easonxinranwang)
-[![Resume](assets/resume.svg)](https://drive.google.com/file/d/1v44c1tVe0y8k7oJx0wgeyAMrOrU-fcq5/view?usp=sharing)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7952B3?style=for-the-badge&logo=figma&logoColor=white)](https://easonxinranwang.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yIDhoNHYxM0gyek05IDhoNHYyYzEtMiA3LTQgNyA0djdoLTR2LTdjMC0zLTMtMy0zIDB2N0g5eiIvPjxjaXJjbGUgZmlsbD0id2hpdGUiIGN4PSI0IiBjeT0iNCIgcj0iMiIvPjwvc3ZnPg%3D%3D)](https://www.linkedin.com/in/easonxinranwang)
+[![Resume](https://img.shields.io/badge/Resume-238567?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1v44c1tVe0y8k7oJx0wgeyAMrOrU-fcq5/view?usp=sharing)
 
 
 ### Languages
