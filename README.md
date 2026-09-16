@@ -10,31 +10,38 @@ and Human-Computer Interaction at Georgia Tech.
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-252830?style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-252830?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-252830?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-252830?style=flat-square)
-![Java](https://img.shields.io/badge/Java-252830?style=flat-square)
-![C++](https://img.shields.io/badge/C%2B%2B-252830?style=flat-square)
-![C#](https://img.shields.io/badge/C%23-252830?style=flat-square)
+![Python](https://img.shields.io/badge/Python-18181B?style=flat&logo=python&logoColor=FACC15)
+![TypeScript](https://img.shields.io/badge/TypeScript-18181B?style=flat&logo=typescript&logoColor=60A5FA)
+![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=flat&logo=javascript&logoColor=FACC15)
+![SQL](https://img.shields.io/badge/SQL-18181B?style=flat&logo=postgresql&logoColor=93C5FD)
+![Java](https://img.shields.io/badge/Java-18181B?style=flat&logo=openjdk&logoColor=FB923C)
+![C++](https://img.shields.io/badge/C%2B%2B-18181B?style=flat&logo=cplusplus&logoColor=60A5FA)
+![C#](https://img.shields.io/badge/C%23-18181B?style=flat&logo=dotnet&logoColor=A78BFA)
 
-### Technologies
+### Frontend & Design
 
-![React](https://img.shields.io/badge/React-252830?style=flat-square)
-![Svelte](https://img.shields.io/badge/Svelte-252830?style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-252830?style=flat-square)
-![D3.js](https://img.shields.io/badge/D3.js-252830?style=flat-square)
-![Express.js](https://img.shields.io/badge/Express.js-252830?style=flat-square)
-![REST API](https://img.shields.io/badge/REST_API-252830?style=flat-square)
-![HTML](https://img.shields.io/badge/HTML-252830?style=flat-square)
-![CSS](https://img.shields.io/badge/CSS-252830?style=flat-square)
-![Figma](https://img.shields.io/badge/Figma-252830?style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-252830?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-252830?style=flat-square)
-![Firebase](https://img.shields.io/badge/Firebase-252830?style=flat-square)
-![Supabase](https://img.shields.io/badge/Supabase-252830?style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-252830?style=flat-square)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-252830?style=flat-square)
-![Git/GitHub](https://img.shields.io/badge/Git%2FGitHub-252830?style=flat-square)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-252830?style=flat-square)
-![ROS](https://img.shields.io/badge/ROS-252830?style=flat-square)
+![React](https://img.shields.io/badge/React-18181B?style=flat&logo=react&logoColor=67E8F9)
+![Svelte](https://img.shields.io/badge/Svelte-18181B?style=flat&logo=svelte&logoColor=FB923C)
+![D3.js](https://img.shields.io/badge/D3.js-18181B?style=flat&logo=d3&logoColor=FDBA74)
+![HTML](https://img.shields.io/badge/HTML-18181B?style=flat&logo=html5&logoColor=FB923C)
+![CSS](https://img.shields.io/badge/CSS-18181B?style=flat&logo=css&logoColor=A78BFA)
+![Figma](https://img.shields.io/badge/Figma-18181B?style=flat&logo=figma&logoColor=F9A8D4)
+
+### Backend & Data
+
+![Node.js](https://img.shields.io/badge/Node.js-18181B?style=flat&logo=nodedotjs&logoColor=86EFAC)
+![Express.js](https://img.shields.io/badge/Express.js-18181B?style=flat&logo=express&logoColor=E4E4E7)
+![REST APIs](https://img.shields.io/badge/REST_APIs-18181B?style=flat&logo=swagger&logoColor=86EFAC)
+![MySQL](https://img.shields.io/badge/MySQL-18181B?style=flat&logo=mysql&logoColor=7DD3FC)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181B?style=flat&logo=postgresql&logoColor=93C5FD)
+![Firebase](https://img.shields.io/badge/Firebase-18181B?style=flat&logo=firebase&logoColor=FACC15)
+![Supabase](https://img.shields.io/badge/Supabase-18181B?style=flat&logo=supabase&logoColor=6EE7B7)
+
+### Cloud & Tools
+
+![AWS](https://img.shields.io/badge/AWS-18181B?style=flat)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-18181B?style=flat)
+![Git](https://img.shields.io/badge/Git-18181B?style=flat&logo=git&logoColor=FDA4AF)
+![GitHub](https://img.shields.io/badge/GitHub-18181B?style=flat&logo=github&logoColor=E4E4E7)
+![OpenAI](https://img.shields.io/badge/OpenAI-18181B?style=flat)
+![ROS](https://img.shields.io/badge/ROS-18181B?style=flat&logo=ros&logoColor=A5B4FC)
